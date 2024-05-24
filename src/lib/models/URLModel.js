@@ -33,3 +33,5 @@ const URLSchema = new Schema({
 });
 
 module.exports = mongoose.models.URL || mongoose.model('URL', URLSchema);
+
+export const runtime = 'edge'
