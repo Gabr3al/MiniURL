@@ -37,4 +37,3 @@ export async function DELETE(req, { params }) {
 }
 
 export const dynamic = 'force-dynamic'
-export const runtime = 'nodejs'

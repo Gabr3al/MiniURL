@@ -30,4 +30,3 @@ export default function Login() {
 
 
 };
-export const runtime = 'nodejs'

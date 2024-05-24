@@ -23,4 +23,3 @@ export async function GET(req) {
 }
 
 export const dynamic = 'force-dynamic'
-export const runtime = 'nodejs'
