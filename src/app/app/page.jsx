@@ -30,3 +30,4 @@ export default function Login() {
 
 
 };
+export const runtime = 'edge';

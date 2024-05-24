@@ -21,4 +21,4 @@ export default function Login() {
         redirect('/app')
     }
 };
-
+export const runtime = 'edge';
