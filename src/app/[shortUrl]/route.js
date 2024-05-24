@@ -17,3 +17,5 @@ export async function GET(req, { params }) {
 
     return NextResponse.redirect(url.fullUrl);
 }
+
+export const runtime = 'edge';
