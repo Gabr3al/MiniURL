@@ -58,4 +58,4 @@ export default function NotFound() {
         </main>
     )
 };
-export const runtime = 'edge';
+export const runtime = 'nodejs'

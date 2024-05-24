@@ -50,4 +50,4 @@ export async function PUT(req, { params }) {
 }
 
 export const dynamic = 'force-dynamic'
-export const runtime = 'edge';
+export const runtime = 'nodejs'
