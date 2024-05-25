@@ -8,3 +8,12 @@ I added a Paid Plan on the Landingpage but stopped Development at implementing S
 - HOSTNAME (URL like https://miniurl.site)
 - CLERK_SECRET_KEY
 - NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY
+
+
+## Preview
+
+![alt text](https://raw.githubusercontent.com/Gabr3al/MiniURL/main/preview/preview1.png)
+
+![alt text](https://raw.githubusercontent.com/Gabr3al/MiniURL/main/preview/preview2.png)
+
+
